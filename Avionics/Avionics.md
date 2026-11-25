@@ -30,6 +30,16 @@ The 9V battery was secured using a zip tie, while the screw switch was incorpora
 The avionics bay was designed for removal after flight, providing access to the onboard electronics and allowing recorded flight data to be retrieved from the StratoLogger.
 
 ## 5. Avionics Gallery
-<img src="Images/3d_printed.jpg" alt="Custom Avionics Bay" width="200">
-<img src="Images/electronics_bay.jpg" alt="Custom Avionics Bay" width="200">
-<img src="Images/electronics_cone.jpg" alt="Custom Avionics Bay" width="200">
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/3d_printed.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/electronics_bay.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/electronics_cone.jpg" width="200">
+    </td>
+  </tr>
+</table>
