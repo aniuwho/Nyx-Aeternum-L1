@@ -24,5 +24,16 @@ A shock cord connected the nose cone and main body tube, maintaining a physical 
 
 ## 4. Recovery Gallery
 
-*Photographs of the recovery assembly and parachute configuration will be added.*
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/chute.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/chute_connected.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/recover_ground.jpg" width="200">
+    </td>
+  </tr>
+</table>
