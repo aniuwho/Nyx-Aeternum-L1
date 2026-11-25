@@ -3,6 +3,7 @@
 ## Overview
 
 The rocket incorporated a custom 3D-printed avionics bay designed to house the onboard flight electronics within the plastic nose cone.
+![Custom 3D-Printed Avionics Bay](Images/3d_printed.jpg)
 
 The enclosure accommodated a StratoLogger flight computer, a 9V battery, and a screw switch. Its removable design allowed access to the electronics following flight for data retrieval.
 
