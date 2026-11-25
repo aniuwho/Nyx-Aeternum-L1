@@ -28,4 +28,22 @@ The structural components were integrated using epoxy bonding. The fin and motor
 
 ## 5. Construction Gallery
 
-*Construction photographs will be added as documentation progresses.*
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/gather.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/assemble_start.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/assembled_centerings.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/assembled_fins.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/connected_shock_cord.jpg" width="200">
+    </td>
+  </tr>
+</table>
