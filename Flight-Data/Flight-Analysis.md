@@ -39,5 +39,22 @@ Further post-flight observations and inspection details will be added as documen
 
 ## 5. Launch Gallery
 
-*Launch and recovery photographs will be added.*
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/prep.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/launch_setup.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/flying.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/up_and_beyond.jpg" width="200">
+    </td>
+    <td align="center">
+      <img src="Images/recover_ground.jpg" width="200">
+    </td>
+  </tr>
+</table>

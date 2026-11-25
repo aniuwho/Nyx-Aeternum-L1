@@ -67,4 +67,11 @@ Predicted performance values will be documented separately from actual flight me
 
 ## Design Documentation
 
-Additional design files, OpenRocket models, and simulation outputs will be included here as they become available.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Design.png" width="400">
+    </td>
+  </tr>
+</table>
